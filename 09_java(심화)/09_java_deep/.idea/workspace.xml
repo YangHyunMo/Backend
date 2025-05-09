@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27e3192f-2926-4c15-b2f7-2d7a474364f6" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_java_deep.iml" beforeDir="false" afterPath="$PROJECT_DIR$/09_java_deep.iml" afterDir="false" />
-    </list>
+    <list default="true" id="27e3192f-2926-4c15-b2f7-2d7a474364f6" name="변경" comment="09 제네릭, 컬렉션 심화문제 풀이" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,12 +91,25 @@
       <workItem from="1745904025156" duration="1000" />
       <workItem from="1745911825942" duration="4328000" />
       <workItem from="1745971475600" duration="9000" />
-      <workItem from="1746751602001" duration="1798000" />
+      <workItem from="1746751602001" duration="1881000" />
     </task>
+    <task id="LOCAL-00001" summary="09 제네릭, 컬렉션 심화문제 풀이">
+      <option name="closed" value="true" />
+      <created>1746753436743</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746753436743</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="09 제네릭, 컬렉션 심화문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="09 제네릭, 컬렉션 심화문제 풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
